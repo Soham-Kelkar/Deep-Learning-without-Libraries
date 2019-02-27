@@ -1,4 +1,4 @@
-# Deep-Learning
+# Neural Networks without Machine Learning Frameworks
 Multilayer Perceptron using NumPy
 
 This project is implemenetating of a Deep Neural Network without using any machine learning library. It involves defining custom activations, loss criterion and also implements Batch Normalization. The neural network is self sufficient and implements backpropagation using only NumPy libraries.
